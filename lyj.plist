@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://www.tammy.com:450/static/ios/(targetname)_(version)_build(buildversion)_yyyyMMdd.ipa</string>
+                        <string>http://192.168.103.69:8136/index.html</string>
                     </dict>
                 </array>
                 <key>metadata</key>
