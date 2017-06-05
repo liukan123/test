@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.103.69:8136/index.html</string>
+                        <string>http://192.168.103.69:8136/apk/YRProject.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
