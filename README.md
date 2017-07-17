@@ -1,1 +1,1 @@
-# test
+绕过App Store，设置自己的下载地址的plist文件
